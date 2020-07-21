@@ -14,18 +14,28 @@
 <hr>
 
 
-# 사용 방법 #  
-1. 먼저 우측 위의 녹색 Clone or Download를 눌러 자신의 PC로 (Clone or ZIP)내려받는다.  
-2. VS CODE로 열어준다.  
-3. 프로젝트 탐색기 좌측 아래에 **_pom.xml_** 이 있다. 이것을 우클릭해서 위쪽에 Update.. 를 클릭해준다. 최초 1회만 한다..!   
-4. 업데이트를 빠르게 마치고 testServerApplication.java를 우클릭해서 아래에 Run을 돌려준다. 그리고 약 20초 대기(최초 초기화 실시)  
-5. 서버 페이지가 뜨는 것을 확인하며 작업한다.  
-6. 작성을 마친 파트별로 깃허브에 **파트별 브랜치로 커밋**한다.   
+# 데이터 수집 #  
+1. 네이버 영화 리뷰
+   -
+   -
+   -
+2. 네이버 블로그 리뷰
+   -
+   -
+   -
+3. 다음 영화 리뷰
+   -
+   -
+   -
+4. 왓챠피디아 영화 리뷰
+   -
+   -
+   -
 
 
 <hr>
 
-# 백앤드 파트 #  
+#  #  
 1. 백앤드 파트는 JSP 파일을 작성하게 됩니다.  
 2. 폴더 경로는 src/main/webapp/WEB-INF/views 이고 여기에 JSP페이지를 작성해서 담아줍니다.  
 3. src/main/java/com.classproject.testServer/MainController.java로 이동  
