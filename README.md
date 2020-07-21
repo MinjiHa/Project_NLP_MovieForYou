@@ -35,7 +35,7 @@
 
 <hr>
 
-#  #  
+# 데이터정제 #  
 1. 백앤드 파트는 JSP 파일을 작성하게 됩니다.  
 2. 폴더 경로는 src/main/webapp/WEB-INF/views 이고 여기에 JSP페이지를 작성해서 담아줍니다.  
 3. src/main/java/com.classproject.testServer/MainController.java로 이동  
@@ -61,7 +61,7 @@
                     
 <hr>
 
-# 프론트 파트 #  
+# 추천시스템 #  
 1. CSS : CSS작성 후 파일은 src/main/resource/static/css에 넣어주시면 됩니다.  
 2. JavaScript : JS 작성 후 파일은 src/main/resource/static/js에 넣어주시면 됩니다.  
 3. Image : 첨부하는 img 파일은 src/main/resource/static/images에 넣어주시면 됩니다.  
@@ -72,7 +72,7 @@
   
 <hr>
 
-# 데이터 관리 #  
+# 감성분석 #  
 1. MS - SQL SERVER(Azure)와 MyBatis를 이용합니다.  
 2. Controller(interface) -> Service(interface) -> DAO -> Mapper - > Model -> DAO 순서로 동작합니다.  
 3. 전체적인 과정은 구현해 놓았고 데이터에 접근해야하는 로직에서 Model을 구현하고 DAO를 호출해서 쓰시면 됩니다.  
@@ -80,12 +80,12 @@
 
 <hr>
 
-# 데이터 분석 #  
+# 랄랄라 #  
 1. 데이터 분석팀은 먼저 분석게시물을 게시할 수 있는 보드를 만들어 주셔야합니다.  
 2. 그 후 각자가 진행한 결과물을 올리겠습니다.  
 <hr>
 
-# 서버 #  
+# 라랄랄라 #  
 1. 각 팀별로 올리는 커밋에 대해 확인하고 리퀘스트 받아 머징토록 합니다.
 2. Git Hub / VS code 기반으로 작업합니다.  
 <hr>
