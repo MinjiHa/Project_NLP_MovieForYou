@@ -47,3 +47,11 @@
 ## Consine Similarity 유사영화 추천시스템 구현
 1. 사용자가 선택한 영화를 영화 리뷰 코퍼스를 기반으로 코사인 유사도 사용.
 2. 해당 영화와 유사한 영화를 유사도 순으로 정렬하여 출력
+
+        # tf-idf 행렬만들기
+        from sklearn.feature_extraction.text import TfidfVectorizer
+        tfidf = TfidfVectorizer()
+        tfidf_matrix = tfidf.fit_transform(df.review) 
+        
+        from sklearn.metrics.pairwise import linear_kernel
+        cosine_sim = linear_kernel(tfidf_matrix, tfidf_matrix)
