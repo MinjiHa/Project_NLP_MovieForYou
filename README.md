@@ -1,6 +1,6 @@
-# FeelNa(Movie)
- Movie For You
-## AI Movie Recommendation Project
+# 프로젝트 명 : FeelNa(Movie)
+ 
+## 감성키워드 AI추천시스템 (구 Movie For You)
 - 사용자의 단어 입력에 따른 영화를 추천해주는 인공지능 추천 시스템입니다.
 - 소셜 리뷰 데이터를 기반으로 입력값과의 코사인유사도를 측정하여 영화를 추천합니다.
   - 입력된 단어와 유사한 단어를 word2Vec을 사용해 출력
