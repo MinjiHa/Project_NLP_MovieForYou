@@ -1,4 +1,5 @@
-# Movie For You
+# FeelNa(Movie)
+- Movie For You
 ## AI Movie Recommendation Project
 - 사용자의 단어 입력에 따른 영화를 추천해주는 인공지능 추천 시스템입니다.
 - 소셜 리뷰 데이터를 기반으로 입력값과의 코사인유사도를 측정하여 영화를 추천합니다.
