@@ -1,5 +1,6 @@
 # 프로젝트 명 : FeelNa("Movie")
- ![image](https://user-images.githubusercontent.com/63627273/88992370-3337dc80-d31e-11ea-8c13-a325c3e6fa10.png)
+ ![image](https://user-images.githubusercontent.com/63627273/88992370-3337dc80-d31e-11ea-8c13-a325c3e6fa10.png)  
+ 20200713~20200731
 
 ## 감성키워드 AI추천시스템 (구 Movie For You)
 - 사용자의 단어 입력에 따른 영화를 추천해주는 인공지능 추천 시스템입니다.
