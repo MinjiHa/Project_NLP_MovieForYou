@@ -1,5 +1,5 @@
 # 프로젝트 명 : FeelNa("Movie")
- ![image](https://user-images.githubusercontent.com/63627273/88992370-3337dc80-d31e-11ea-8c13-a325c3e6fa10.png)  
+ ![image](https://user-images.githubusercontent.com/63627272/89908286-a8fa4d00-dc28-11ea-97d6-6f459b7e3c9d.png)
  20200713~20200731
 
 ## 감성키워드 AI추천시스템 (구 Movie For You)
