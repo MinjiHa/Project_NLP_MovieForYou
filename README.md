@@ -37,6 +37,7 @@
 4. 정제된 데이터를 바탕으로 코퍼스 구성
     
 ## Word2Vec 리뷰키워드 기반 추천시스템 구현
+![FeelNa1](https://user-images.githubusercontent.com/63627272/92868694-f8f14d00-f43c-11ea-8952-7f8d1004ff02.gif)
 1. 사용자가 키워드를 입력하면 (ex. 아련한) Word2vec 을 통해 단어를 출력. 
 2. 출력된 단어 중 사용자가 원하는 키워드를 연속 선택
 3. 선택된 단어들과 유사한 단어 리스트로 가상의 리뷰를 만들고, 기존의 리뷰 코퍼스와 함께 코사인 유사도를 진행
@@ -47,6 +48,7 @@
         embedding_model.save('word2VecModel')
 
 ## Consine Similarity 유사영화 추천시스템 구현
+![FeelNa2](https://user-images.githubusercontent.com/63627272/92868729-04447880-f43d-11ea-9b47-eb1408323754.gif)
 1. 사용자가 선택한 영화를 영화 리뷰 코퍼스를 기반으로 코사인 유사도 사용.
 2. 해당 영화와 유사한 영화를 유사도 순으로 정렬하여 출력
 
